@@ -35,7 +35,7 @@ Inspired by a deep love for nature, adventure, and self-expression. This dApp co
 ---
 
 ## 🧠 Author
-**[Your Full Name or GitHub Username]**  
+**[del-alj]**  
 Moroccan software engineer passionate about Web3, travel, and nature.  
 [LinkedIn] | [Twitter] | [Portfolio Link]
 
